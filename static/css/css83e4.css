@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('M PLUS Rounded 1c Light'), local('MPLUSRounded1c-Light'), url(https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsNz-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('M PLUS Rounded 1c'), local('MPLUSRounded1c-Regular'), url(https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWBxLs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('M PLUS Rounded 1c Medium'), local('MPLUSRounded1c-Medium'), url(https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sNz-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('M PLUS Rounded 1c ExtraBold'), local('MPLUSRounded1c-ExtraBold'), url(https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsNz-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('M PLUS Rounded 1c Black'), local('MPLUSRounded1c-Black'), url(https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sNz-4.ttf) format('truetype');
+}
